@@ -19,7 +19,7 @@ public class Solution {
 //        Iterator<Integer> iterator = heightSet.iterator();
 //        System.out.println(heightSet.toString());
 //        while (iterator.hasNext()) {
-        for (int i = 0;i <heights.length;i++){
+        for (int i = 0; i < heights.length; i++) {
 
             int height = heights[i];
             int maxNum = getMaxNumber(height, heights);
