@@ -1,4 +1,4 @@
-package _72_Edit_Distance;
+package _72Edit_Distance;
 
 /**
  * Created by apple on 2017/3/21.

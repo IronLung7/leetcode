@@ -1,6 +1,4 @@
-package _42_Trapping_Rain_water;
-
-import java.util.ArrayList;
+package _42Trapping_Rain_water;
 
 /**
  * Created by apple on 2017/2/16.

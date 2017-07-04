@@ -1,4 +1,4 @@
-package _456_132_Pattern;
+package _456Pattern132;
 
 import java.util.Stack;
 

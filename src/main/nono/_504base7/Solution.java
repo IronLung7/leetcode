@@ -1,4 +1,4 @@
-package _504_base7;
+package _504base7;
 
 /**
  * Created by apple on 2017/2/28.

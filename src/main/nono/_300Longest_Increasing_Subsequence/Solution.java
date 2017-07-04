@@ -1,4 +1,4 @@
-package _300_Longest_Increasing_Subsequence;
+package _300Longest_Increasing_Subsequence;
 
 import java.util.Arrays;
 

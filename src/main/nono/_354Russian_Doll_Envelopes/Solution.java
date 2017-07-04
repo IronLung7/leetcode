@@ -1,4 +1,4 @@
-package _354_Russian_Doll_Envelopes;
+package _354Russian_Doll_Envelopes;
 
 import java.util.Arrays;
 import java.util.Comparator;

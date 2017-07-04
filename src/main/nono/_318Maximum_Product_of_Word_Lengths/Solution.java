@@ -1,11 +1,9 @@
-package _318_Maximum_Product_of_Word_Lengths;
+package _318Maximum_Product_of_Word_Lengths;
 
 
 /**
  * Created by apple on 2017/2/27.
  */
-
-import java.util.ArrayList;
 
 /**
  * 题中word只包含小写字母，只有26位，可以用32位的int中的后26位对应26个字母

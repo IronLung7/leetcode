@@ -1,6 +1,4 @@
-package _64_Minimum_Path_Sum;
-
-import java.util.Arrays;
+package _64Minimum_Path_Sum;
 
 /**
  * Created by apple on 2017/3/21.
